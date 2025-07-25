@@ -16,9 +16,8 @@ public class compareMarks {
             System.out.println("passed with grade 'A' ");
         
         else
-            System.out.println("failed!!!");
+            System.out.println("failed!");
         sc.close();
-        
     }
     
 }

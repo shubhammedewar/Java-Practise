@@ -14,5 +14,6 @@ public class compareTwoNum{
         else System.out.print(b +" is greater than " +a);
 
         sc.close();
+        
     }
 }

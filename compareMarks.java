@@ -18,4 +18,5 @@ public class compareMarks {
         else
             System.out.println("failed!!!");
     }
+    sc.close();
 }
